@@ -197,3 +197,30 @@
  
 ## Граф сети
 ![Структура сети](images/graph.png)
+
+## Полезные ссылки
+Вводная статья на Хабре про tensorflow: 
+* https://habrahabr.ru/company/ods/blog/324898/
+
+Статьи про метод Монте - Карло поиска в дереве:
+* https://habrahabr.ru/post/282522/
+* https://habrahabr.ru/post/330092/
+
+Статья про метод стохастического градиентного спуска:
+* http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D1%81%D1%82%D0%BE%D1%85%D0%B0%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82%D0%B0
+
+Статья о batch normalization:
+* http://proceedings.mlr.press/v37/ioffe15.pdf
+
+Статья про методы оптимизации нейронных сетей (обязательно нужно почитать про Adam optimizer):
+* https://habrahabr.ru/post/318970/
+
+В кратце про Alpha Zero:
+* http://web.stanford.edu/~surag/posts/alphazero.html
+
+Подробнее про AlphaGo/AlphaZero:
+* http://airesearch.com/wp-content/uploads/2016/01/deepmind-mastering-go.pdf
+* https://www.gwern.net/docs/rl/2017-silver.pdf
+
+Вводная статья о сверточных нейронных сетях:
+* https://habrahabr.ru/post/309508/
